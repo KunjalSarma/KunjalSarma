@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning **Deep-learning /Algorithms/Probability/Maths-Data Science/Django**
 
 - 👯 I’m looking to collaborate on **AI/Machine Learning /React Js/Django Projects/Web Scrapping/Python /Data Analyst**
+- 💬 Ask me about **ReactJS, DSA, ML etc.**
 
+- 📫 How to reach me **kunjalsarma.10@gmail.com**
 - ⚡ Fun fact **I love music**
 
 <h3 align="left">Connect with me:</h3>
