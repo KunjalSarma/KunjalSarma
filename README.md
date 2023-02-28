@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **Deep-learning and Algorithms**
+- 🌱 I’m currently learning **Deep-learning /Algorithms/**
 
-- 👯 I’m looking to collaborate on **AI/Machine Learning Projects**
+- 👯 I’m looking to collaborate on **AI/Machine Learning /React Js/Django Projects/Web Scrapping/Python /Data Analyst**
 
 - ⚡ Fun fact **I love music**
 
