@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **Deep-learning /Algorithms/**
+- 🌱 I’m currently learning **Deep-learning /Algorithms/Probability/Maths-Data Science**
 
 - 👯 I’m looking to collaborate on **AI/Machine Learning /React Js/Django Projects/Web Scrapping/Python /Data Analyst**
 
