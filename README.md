@@ -9,7 +9,7 @@
 - 💬 Ask me about **ReactJS, DSA, ML etc.**
 
 - 📫 How to reach me **kunjalsarma.10@gmail.com**
-- ⚡ Fun fact **I love music**
+- ⚡ Fun fact **I love Music and Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
